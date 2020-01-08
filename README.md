@@ -1,0 +1,2 @@
+# test-const
+const test
